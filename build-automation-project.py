@@ -7,3 +7,6 @@ print("Build finished.")
 
 print("Build started v2....")
 
+
+print("Main branch version")
+
